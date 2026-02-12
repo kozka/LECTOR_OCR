@@ -1,0 +1,29 @@
+LECTOR_PORTABLE_VALKYRIE V1
+
+Aupa,
+
+Esta es una versión provisional para escuchar los textos de Valkyrie.
+
+
+■ Para evitar que el programa se salga continuamente a Windows:
+
+-Pulsa Alt izquierdo + Enter para entrar en modo ventana.
+De esta manera no te expulsará al escritorio.
+
+■ Captura de texto
+
+Para realizar la captura del texto que se desea escuchar:
+
+Pulsa Control + Q.
+
+
+■ Posibles problemas
+
+-Puede que necesites tener Python instalado.
+
+-De momento, los textos se muestran en bruto y no interpretarán correctamente algunos símbolos de Valkyrie.
+
+-Si os da cualquier otro error, por favor contactad conmigo:
+
+📧 sivan_sho@hotmail.com
+

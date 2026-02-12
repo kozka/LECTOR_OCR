@@ -1,0 +1,14 @@
+[AUDIO]
+# Voces: es-ES-AlvaroNeural, es-MX-DaliaNeural, es-ES-ElviraNeural
+VOZ = es-ES-AlvaroNeural
+VELOCIDAD = +0%
+VOLUMEN = +0%
+
+[SISTEMA]
+# Ruta al ejecutable de Tesseract. SI NO ESTA AQUI, CAMBIALO.
+# Si instalaste la versión de 64bits suele ser: C:\Program Files\Tesseract-OCR\tesseract.exe
+# Si instalaste la de 32bits: C:\Program Files (x86)\Tesseract-OCR\tesseract.exe
+#RUTA_TESSERACT = C:\Program Files\Tesseract-OCR\tesseract.exe
+
+# Sonido al iniciar captura (puedes poner 'beep' o la ruta a un .wav)
+SONIDO_INICIO = beep
